@@ -6,7 +6,7 @@
 #### Team Members
 |        Role      |         👤 Name          |   🎓 Roll Number     |   ⚧️ Gender   |   🏫 Department / Programme    |   🏠 Hosteller / Day Scholar   |
 |:---------------:|:------------------------|:----------------------|:---------------:|:------------------------------:|:------------------------------:|
-|   Team Leader   | Archand S                | CB.AI.U4QTS25007      |  MALE     |       AI                       | HOSTELLER  (KASYAPA BHAVANAM ANNEX)                    |
+|   Team Leader   | Archand S                | CB.AI.U4QTS25007      |  MALE     |       QTS                      | HOSTELLER  (KASYAPA BHAVANAM ANNEX)                    |
 |    Member 2     | Kruthic Kumar N L        | CB.PS.I5DAS25014      |  MALE      |      IDAS                      | HOSTELLER (VASISHTA BHAVANAM)                       |
 |    Member 3     | Pranav S                 | CB.PS.I5DAS25128      |  MALE     |       IDAS                 | DAY SCHOLAR                       |
 |    Member 4     | Swetha T                 | CB.PS.I5DAS25136      |  FEMALE      |    IDAS              | HOSTELLER(MYTHREYI BHAVANAM)                       |
